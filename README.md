@@ -2,6 +2,10 @@
 
 This repository contains an analysis of pedestrian traffic patterns along the Limmatquai in Zürich, Switzerland. The project includes data collection, processing, and visualization of pedestrian movements, providing insights into urban mobility patterns.
 
+## LinkedIn Posting
+
+The linkedIn Post can be found [here](https://www.linkedin.com/feed/update/urn:li:activity:7280316855334948864/).
+
 ## Project Contents
 
 - Python script for data fetching and processing
@@ -15,21 +19,7 @@ This repository contains an analysis of pedestrian traffic patterns along the Li
 
 The analysis uses data from the City of Zürich's open data portal. Due to file size constraints, the raw CSV files are not included in this repository.
 
-## Related Content
 
-For a detailed discussion of the findings and methodology, check out my analysis on [LinkedIn](https://www.linkedin.com/feed/).
-
-## Setup
-
-1. Clone this repository
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Run the data fetching script:
-```bash
-python fetch_limmatquai_data.py
-```
 
 ## Visualizations
 
