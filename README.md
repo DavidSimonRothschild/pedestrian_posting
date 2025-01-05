@@ -1,4 +1,4 @@
-# Limmatquai Pedestrian Analysis
+# Limmatquai Pedestrian Analysis (with Windurf IDE)
 
 This repository contains an analysis of pedestrian traffic patterns along the Limmatquai in Zürich, Switzerland. The project includes data collection, processing, and visualization of pedestrian movements, providing insights into urban mobility patterns.
 
